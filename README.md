@@ -1,4 +1,4 @@
-# Regla-D3-App
+# ReglaD3_App
 📱 ¡Mi primera aplicación móvil publicada en Google Play Store!
 Desarrollada con Python y Kivy, esta app permite calcular la regla de tres simple de forma rápida, clara y accesible para todos.
 
