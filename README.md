@@ -4,7 +4,7 @@ Desarrollada con Python y Kivy, esta app permite calcular la regla de tres simpl
 
 Pensada con un fuerte enfoque en la inclusión y la accesibilidad, cuenta con soporte audiovisual, modo claro/oscuro y es compatible con dispositivos Android antiguos y modernos.
 
-✨ Características destacadas:
+Características destacadas:
 ✅ Interfaz adaptable y responsive para todo tipo de pantallas.
 
 🎧 Accesibilidad audiovisual para personas con dificultades visuales.
