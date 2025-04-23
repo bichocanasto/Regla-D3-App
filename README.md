@@ -9,7 +9,8 @@ Pensada con un fuerte enfoque en la inclusión y la accesibilidad, cuenta con so
 🎧 Accesibilidad audiovisual para personas con dificultades visuales.
 🌗 Alternancia entre modo claro y oscuro según preferencias del usuario.
 📲 Compatible con una amplia gama de versiones de Android.
-🚀 Publicada oficialmente en Google Play Store: https://play.google.com/store/apps/details?id=com.regladetres.app.regladetresapp&pcampaignid=web_share
+🚀 Publicada oficialmente en Google Play Store: 
+https://play.google.com/store/apps/details?id=com.regladetres.app.regladetresapp&pcampaignid=web_share
 
 
 ### 📸 Captura de pantalla
