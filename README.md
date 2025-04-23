@@ -11,6 +11,9 @@ Pensada con un fuerte enfoque en la inclusión y la accesibilidad, cuenta con so
 📲 Compatible con una amplia gama de versiones de Android.
 🚀 Publicada oficialmente en Google Play Store: https://play.google.com/store/apps/details?id=com.regladetres.app.regladetresapp&pcampaignid=web_share
 
-![Captura3](https://github.com/user-attachments/assets/d2469d06-5253-41e0-9268-fe411a95e0c4)
-![Captura1](https://github.com/user-attachments/assets/6a60f5b9-24c7-4244-bb12-215c6e915b48)
-![Captura2](https://github.com/user-attachments/assets/aee0b887-d1a4-4d05-ac73-757da6e93cae)
+
+### 📸 Capturas de pantalla
+
+<img src="https://github.com/user-attachments/assets/9a486b79-b7e0-469e-afd2-80fee0ad2dd3" alt="Captura2" width="600"/>
+<img src="https://github.com/user-attachments/assets/ae35a5f5-79eb-4ea4-8d8d-4d055656d475" alt="Captura3" width="600"/>
+<img src="https://github.com/user-attachments/assets/df360fd4-3fb2-43e1-86f7-b5764bc14f21" alt="Captura1" width="600"/>
